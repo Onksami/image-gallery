@@ -66,5 +66,5 @@ body{
 }
 div span img{
     height: 200px;
-    width: 150px;
+    min-width: 150px;
 }
